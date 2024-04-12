@@ -6,24 +6,24 @@
  their surroundings.
 
  List of available commands:
- quit
- look
- move
- check inventory // inventory
- grab tool // pickup tool
- drop tool
- grab leaves // pickup leaves
- collect wood // gather wood
- grab key // pickup key
- open safe // unlock safe
- add leaves // add kindling
- add wood
- light fire // start fire
- open cave // unblock cave
- light torch
- start boat
- examine firepit
- examine safe
- examine toolbox
+ quit,
+ look,
+ move,
+ check inventory // inventory,
+ grab tool // pickup tool,
+ drop tool,
+ grab leaves // pickup leaves,
+ collect wood // gather wood,
+ grab key // pickup key,
+ open safe // unlock safe,
+ add leaves // add kindling,
+ add wood,
+ light fire // start fire,
+ open cave // unblock cave,
+ light torch,
+ start boat,
+ examine firepit,
+ examine safe,
+ examine toolbox,
 
  This is one of the first projects that I have programmed.
